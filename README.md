@@ -124,9 +124,9 @@ I'm Nabeel Afzal, a seasoned Software Development Manager with over 8+ years of 
 </p>
 
 
-<p><img align="left" src="https://cartlow-stats.vercel.app/api/top-langs?username=nabeelcartlow&show_icons=true&locale=en&theme=transparent" alt="nabeelcartlow" /></p>
+<p><img align="left" src="https://cartlow-stats.vercel.app/api/top-langs?username=nabeelcartlow&show_icons=true&locale=en&theme=transparent&layout=donut-vertical" alt="nabeelcartlow" /></p>
 
-<p>&nbsp;<img align="center" src="https://cartlow-stats.vercel.app/api?username=nabeelcartlow&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&locale=en" alt="nabeelcartlow" /></p>
+<p>&nbsp;<img align="center" src="https://cartlow-stats.vercel.app/api?username=nabeelcartlow&show_icons=true&theme=transparent&locale=en" alt="nabeelcartlow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelcartlow&" alt="nabeelcartlow" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabeelcartlow" alt="nabeelcartlow" /></a> </p>
